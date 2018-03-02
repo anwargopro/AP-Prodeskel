@@ -1,0 +1,17 @@
+
+Cara Instalasi Memasukan CD Key
+=== instalasi seperti biasa 
+1. Matikan Antivirus sementara/terutama SMADAVE 
+2. Rubah tanggal Komputer ke 18 April 2017 (Penjelasan biar Virus di komputer terkunci sementara)
+3. Pilih Folder update yang sudah ada dalam paket aplikasi
+4. copas icon prodeskel ke directory instalasi Ap-Prodeskel // C:\Program Files (x86)/jogjasoftware/
+5. paste icon tersebut /REPLACE
+6. Klik kanan icon /send to dekstop
+7. bila perintah diatas sudah diikuti dengan benar
+8. doble klik icon Prodeskel input CD Key tersebut
+ 
+Nama Software: Sofwtare Input Prodeskel
+Product ID: PDKS1A V1.1.5
+CD Key: PD18-JS17K1-KS115
+
+===============================================
