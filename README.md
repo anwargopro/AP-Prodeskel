@@ -1,0 +1,2 @@
+# AP-Prodeskel
+Di tahun 2015, Kementrian Dalam Negeri Republik Indonesia telah mencanangkan untuk penginputan data KK, AK dan Profile Desa dan Kelurahan secara terpusat. Jogja Software selaku penyedia software dan aplikasi kembali memberikan yang dapat memudahkan dalam penginputan data yang sudah teruji.  Aplikasi Input KK dan AK Prodeskel  Software ini juga dikenal Aplikasi Input BIP, software yang akan memaksimalkan efektifitas kinerja Anda. Sebagaimana testimoni pengguna produk kami.
