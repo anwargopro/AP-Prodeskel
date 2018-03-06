@@ -1,0 +1,46 @@
+Type=EXE
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#..\..\..\..\WINDOWS\SYSTEM32\STDOLE2.TLB#OLE Automation
+Object={00000000-0000-0000-0000-000000000000}#8.00#0#ieframe.dll#WebBrowser
+Object={1F3D5522-3F42-11d1-B2FA-00A0C908FB55}#1.0#0#MSHFLXGD.OCX#MSHFlexGrid
+Module=mdFile1; mdFile1.bas
+Module=mdExcel; mdExcel.bas
+Module=Module1; Module1.bas
+Form=Form1.frm
+Module=mdFungsiGlobal; mdFungsiGlobal.bas
+Startup="Sub Main"
+HelpFile=""
+ExeName32="JS-Prodeskel V1.1.X"
+Name="jsProdeskel"
+Title="Prodeskel Support"
+VersionCompanyName="?"
+MajorVer=1
+MinorVer=1
+RevisionVer=5
+Command32 = ""
+HelpContextID = "0"
+CompatibleMode = "0"
+AutoIncrementVer = 0
+ServerSupportFiles = 0
+CompilationType = 0
+OptimizationType = 0
+FavorPentiumPro(tm) = 0
+CodeViewDebugInfo = 0
+NoAliasing = 0
+BoundsCheck = 0
+OverflowCheck = -1
+FlPointCheck = 0
+FDIVCheck = 0
+UnroundedFP = 0
+StartMode = 0
+Unattended = 0
+Retained = 0
+ThreadPerObject = 0
+MaxNumberOfThreads = 1
+
+[MS Transaction Server]
+AutoRefresh = 1
+
+[VB Decompiler]
+Build = 7.7.311
+Date = 03-05-2018
+
